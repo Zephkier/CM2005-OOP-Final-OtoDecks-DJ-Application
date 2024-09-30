@@ -47,8 +47,10 @@ Here is my setup for Visual Studio during its installation:
 
 # Preview
 
-[YouTube video explanation and demonstration](https://youtu.be/x8UKLI0Dk9I)
+[YouTube video](https://youtu.be/x8UKLI0Dk9I) for explanation and demonstration:
 
 [![Screenshot of YouTube video](https://github.com/user-attachments/assets/acfc90bd-d139-4a3a-bc3b-8e9a59c4a4c7)](https://youtu.be/x8UKLI0Dk9I)
+
+OtoDecks DJ application:
 
 ![Screenshot of OtoDecks DJ application](https://github.com/user-attachments/assets/fe3fd3a2-cb62-424b-a3f9-08d1f17cc11a)
